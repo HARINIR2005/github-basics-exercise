@@ -1,4 +1,13 @@
+Favorite Foods
+---------------
 Pizza
 Biriyani
 Burger
 Ice Cream
+
+Favorite Movies
+----------------
+Interstellar
+Inception
+Avengers Endgame
+Bahubali
